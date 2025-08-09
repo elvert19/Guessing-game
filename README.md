@@ -1,2 +1,2 @@
 # Guessing-game
-it is a really basic implementation of a guessin game written in c
+it is a really basic implementation of a guessing game written in c
